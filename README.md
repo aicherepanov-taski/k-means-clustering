@@ -1,4 +1,5 @@
 # k-means-clustering
 Метод k-средних (k-means clustering)
 
-Работа над заданиями еще в процессе
+## Задание 1 - Done
+## Задание 2 - In progres
